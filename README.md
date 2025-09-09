@@ -2,6 +2,19 @@
 
 A modern, responsive portfolio website for Vamshi Indla, Senior Manager at Capital One, showcasing 20+ years of experience in Software Engineering and Data Engineering.
 
+## Website Preview
+
+### Desktop View
+![Home Page](screenshots/Home.png)
+*Home section with hero image and introduction*
+
+![Skills Section](screenshots/Skills.png)
+*Skills section with progress bars*
+ 
+### Interactive Elements
+![Portfolio Filter](screenshots/portfolio.png)
+*Interactive portfolio filtering*
+
 ## AI Generation Prompt
 
 To recreate or modify this portfolio website using AI, use the following detailed prompt:
@@ -63,6 +76,10 @@ windsurf-project/
 │   └── main.js         # Main JavaScript functionality
 ├── images/             # Project images and assets
 │   └── Vamshi Krishna Indla_25-06-11_DatabricksAI_6997.jpg
+├── screenshots/        # Website preview images
+│   ├── Home.png
+│   ├── Skills.png
+│   └── portfolio.png
 ├── .gitignore          # Git ignore file
 ├── test.html           # Test page for development
 └── README.md           # Project documentation
