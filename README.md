@@ -1,6 +1,36 @@
-# Vamshi Indla - Portfolio Website
+# Vamshi Indla - Professional Portfolio
 
-A modern, responsive portfolio website for Vamshi Indla, showcasing 20+ years of experience in Software Engineering and Data Engineering.
+A modern, responsive portfolio website for Vamshi Indla, Senior Manager at Capital One, showcasing 20+ years of experience in Software Engineering and Data Engineering.
+
+## AI Generation Prompt
+
+To recreate or modify this portfolio website using AI, use the following detailed prompt:
+
+```
+Create a modern, responsive portfolio website for a Senior Manager in Data & Software Engineering with 20+ years of experience at Capital One. The website should have:
+
+1. A clean, professional design with a navy blue and white color scheme
+2. Responsive navigation with smooth scrolling
+3. Hero section with a professional photo and brief introduction
+4. About section highlighting experience in:
+   - Data Engineering (Big Data, ETL, Data Warehousing)
+   - Software Engineering (Java, Python, Microservices)
+   - Cloud & DevOps (AWS, Kubernetes, CI/CD)
+   - Leadership & Management (Team Leadership, Agile/Scrum)
+5. Skills section with visual progress bars
+6. Portfolio section with filterable projects
+7. Testimonials carousel
+8. Contact form
+9. Mobile-responsive design
+10. Smooth animations and transitions
+
+Technical requirements:
+- Vanilla JavaScript (ES6+)
+- CSS3 with Flexbox/Grid
+- No external frameworks (except for AOS for animations)
+- Optimized for performance and SEO
+- Accessible (WCAG 2.1 compliant)
+```
 
 ## Features
 
@@ -28,10 +58,14 @@ A modern, responsive portfolio website for Vamshi Indla, showcasing 20+ years of
 windsurf-project/
 ├── index.html          # Main HTML file
 ├── css/
-│   └── style.css       # Main stylesheet
+│   └── style.css       # Main stylesheet with responsive design
 ├── js/
-│   └── main.js         # Main JavaScript file
-└── README.md           # This file
+│   └── main.js         # Main JavaScript functionality
+├── images/             # Project images and assets
+│   └── Vamshi Krishna Indla_25-06-11_DatabricksAI_6997.jpg
+├── .gitignore          # Git ignore file
+├── test.html           # Test page for development
+└── README.md           # Project documentation
 ```
 
 ## Getting Started

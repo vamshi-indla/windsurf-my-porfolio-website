@@ -508,7 +508,6 @@ style.textContent = `
     }
 `;
 document.head.appendChild(style);
-});
 
 // Add a simple loading animation for images
 function lazyLoadImages() {
