@@ -163,7 +163,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Vamshi Indla  
-3044 Indigo Lane, Aurora, IL 60403  
+Vamshi Indla   
 Phone: (469) 835-3185  
 Email: vamshi.indla@example.com
